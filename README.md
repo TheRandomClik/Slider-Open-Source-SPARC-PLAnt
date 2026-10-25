@@ -1,6 +1,9 @@
 # Slider-Open-Source-SPARC-PLAnt
 An open-source and free-to-use SPARC-compliant PLAnt design for the Repeat Open PLAnt Challenge.
 
+Repeat Open PLAnt Challenge: https://repeat-robotics.com/blogs/b/repeat-open-plant-challenge
+Repeat Open PLAnt Bundle: https://repeat-robotics.com/products/open-plant-bundle
+
 # About Slider
 Slider was designed for the Repeat Open PLAnt Challenge. Based on the v1 CAD of the successful Bergentruck, Slider has numerous improvements, including:
 - Simplified wiring
