@@ -1,4 +1,4 @@
-# Slider-Open-Source-SPARC-PLAnt
+# Slider: An Open Source SPARC Compliant PLAnt
 An open-source and free-to-use SPARC-compliant PLAnt design for the Repeat Open PLAnt Challenge.
 
 Repeat Open PLAnt Challenge: https://repeat-robotics.com/blogs/b/repeat-open-plant-challenge
