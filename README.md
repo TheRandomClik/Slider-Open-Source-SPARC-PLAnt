@@ -2,6 +2,7 @@
 An open-source and free-to-use SPARC-compliant PLAnt design for the Repeat Open PLAnt Challenge.
 
 Repeat Open PLAnt Challenge: https://repeat-robotics.com/blogs/b/repeat-open-plant-challenge
+
 Repeat Open PLAnt Bundle: https://repeat-robotics.com/products/open-plant-bundle
 
 # About Slider
